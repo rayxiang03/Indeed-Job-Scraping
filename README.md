@@ -10,9 +10,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Project Banner" width="800" height="400">
-</p>
 
 ## 📋 Table of Contents
 
@@ -37,29 +34,29 @@ This toolkit provides robust solutions for web data extraction, preprocessing, a
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/64" width="64" height="64"><br>
+        <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/1.png" width="64" height="64"><br>
         <b>Advanced Scraping</b><br>
         <small>Bypasses common anti-scraping protections</small>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/64" width="64" height="64"><br>
+        <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/2.png" width="64" height="64"><br>
         <b>Data Cleaning</b><br>
         <small>Automated text normalization & correction</small>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/64" width="64" height="64"><br>
+        <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/3.png" width="64" height="64"><br>
         <b>NLP Integration</b><br>
         <small>Transformer models for text analysis</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/64" width="64" height="64"><br>
+        <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/Visualization.gif" width="64" height="64"><br>
         <b>Data Visualization</b><br>
         <small>Multiple chart types & word clouds</small>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/64" width="64" height="64"><br>
+        <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/5.png" width="64" height="64"><br>
         <b>Insight Generation</b><br>
         <small>Extract actionable job market trends</small>
       </td>
@@ -148,11 +145,11 @@ The script will generate visualizations for:
 ## 📊 Visualization Examples
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x300" alt="Job Categories Chart" width="400">
-  <img src="https://via.placeholder.com/400x300" alt="Location Distribution" width="400">
+  <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/Top%2010%20Job%20Categories.png" alt="Job Categories Chart" width="400">
+  <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/image.png" alt="Location Distribution" width="400">
   <br>
-  <img src="https://via.placeholder.com/400x300" alt="Salary Distribution" width="400">
-  <img src="https://via.placeholder.com/400x300" alt="Skills Word Cloud" width="400">
+  <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/Average%20Salary%20by%20Location.png" alt="Salary Distribution" width="400">
+  <img src="https://github.com/rayxiang03/Indeed-Job-Scraping/blob/master/Screenshots/wordcloud.png" alt="Skills Word Cloud" width="400">
 </div>
 
 ## ⚠️ Troubleshooting
